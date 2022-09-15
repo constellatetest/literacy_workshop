@@ -1,4 +1,4 @@
-# Python Basics for Absolute Beginners 
+# Python Basics for Beginners 
 
 ## Day 1 (September 6)
 
